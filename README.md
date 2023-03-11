@@ -8,7 +8,7 @@ Mobile Development Project, (Xamarin)
 •	Constructed a mobile application that shows Status for League of Legends users
 •	Built user status features such as rank, win/lose records, win ratio, and user icon image
 
-Game Design and Implementation Project, (Unity)
+Unity Team Project, (Unity)
 •	Built a Defense Game with four members where bees were protecting
 •	Created scripts for flowers to attack bears, health bars on bears, spawning flowers, and moving a player
 
